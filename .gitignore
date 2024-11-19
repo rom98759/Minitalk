@@ -1,10 +1,26 @@
-*.pdf
-*.md
-*.out
+# All object files
 *.o
+
+# Executables
 *.exe
-*.sh
+*.out
+
+# Libraries
+*.a
+
+# Shared libraries
+*.so
+
+# Debug files
+/.nfs*
+*.swp
+
+# Other
 *.txt
-.vscode/
+
+# Visual Studio Code
+.vscode
+
+# Server and Client
 client
 server
