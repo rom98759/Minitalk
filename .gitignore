@@ -1,0 +1,10 @@
+*.pdf
+*.md
+*.out
+*.o
+*.exe
+*.sh
+*.txt
+.vscode/
+client
+server
